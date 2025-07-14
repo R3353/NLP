@@ -1,4 +1,4 @@
-Annotations Project and Survey on Multimodal Natural Language Processing projects from UC Berkeley Info 159 class (Spring 2024). 
+Annotations Project and Survey on Multimodal Natural Language Processing projects.
 
 **For portfolio/professional demonstration only.**
 ## Annotations Project
