@@ -1,9 +1,5 @@
 Annotations Project and Survey on Multimodal Natural Language Processing projects from UC Berkeley Info 159 class (Spring 2024). 
 
-Annotations Project work belongs to Javier Surya Mokkarala-Lopez, Lauren Lee, and Therese Mendoza. 
-
-Survey work belongs to Therese Mendoza.
-
 **For portfolio/professional demonstration only.**
 ## Annotations Project
 - Task: Decide on a new document classification NLP task, annotate data to support it (including creating annotation guidelines), measure your inter-annotator agreement rate, and build a classifier to predict those labels using the methods we discuss in class.
